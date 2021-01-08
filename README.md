@@ -9,5 +9,5 @@ Para convertirme en un Gopher, he decidido iniciar este repositorio exclisivo de
 
 Repositorio dedicado al lenguaje Go, contiene ejercicios, pruebas y talvez un poco de código raro :)
 
-
-- nhlproject: Sample project for consume an API of the NHL (https://statsapi.web.nhl.com/api/v1/) following the EQuimper tutorial.
+- NHLPROJECT: Sample project for consume an API of the NHL (https://statsapi.web.nhl.com/api/v1/) following the EQuimper YT tutorial. Includes the Http requests to fetch data, basic JSON parser, Gorutines and Channels.
+ ( Proyecto ejemplo para consumir una api, siguiendo el tutorial de EQuimper en YT.Inlcuye el uso de llamadas http para obtener la información, uso básico de JSON, gorutinas y canales)
